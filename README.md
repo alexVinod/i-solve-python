@@ -1,4 +1,4 @@
-# Problem Solving and Programming in Python : <img src='https://github.com/alexVinod/python-crackworld/blob/master/Imgs/bookSRead.JPG' width='50' height='50'><hr>
+# Problem Solving and Programming in Python : <img src='https://github.com/alexVinod/python-crackworld/blob/master/Imgs/bookSRead.JPG' width='150' height='150'><hr>
 ### Objective of the program :
 To impart hands on training on visual programming tools such as Scratch and Raptor, Flowchart design tools such as Raptor and `Python` to solve complex problems.
 
